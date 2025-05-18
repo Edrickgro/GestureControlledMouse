@@ -1,4 +1,4 @@
-# finalprojectCSCI1430
+# GAIM (Gesture Assisted Interactive Mouse)
 
 Usage of this program requires a special glove
 
