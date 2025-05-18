@@ -1,9 +1,9 @@
 # finalprojectCSCI1430
 
-to use this program you need a special glove
+Usage of this program requires a special glove
 
-You also need a calabration image to calabrate the colors on the gloves.
+An initial image is used to calibrate the colors that will be tracked by the program
 
-A sample calabration file is provided.
+A sample calibration file is provided.
 
 Feel free to create your own glove. However you might need to replace the files in stencils and reference.png
